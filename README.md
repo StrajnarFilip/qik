@@ -10,7 +10,7 @@ by adding `qik` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:qik, "~> 0.1.0"}
+    {:qik, "~> 0.0.1"}
   ]
 end
 ```
